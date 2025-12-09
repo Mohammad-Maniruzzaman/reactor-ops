@@ -1,4 +1,4 @@
-# AI Copilot for IT Operations (AWS Hybrid Delivery)
+# Reactor: AI Operations Engine (AWS Hybrid Delivery)
 
 ![Status](https://img.shields.io/badge/Status-Delivered-success)
 ![Platform](https://img.shields.io/badge/Platform-AWS-orange)
